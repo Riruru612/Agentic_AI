@@ -1,10 +1,10 @@
 # Project Description
 
-# FinNexus AI – A Smart Multi-agent Platform for Business & Finance
+# Finvexis AI – A Smart Multi-agent Platform for Finance, Business & Sales
 
-**FinNexus AI is the intelligent A.I.powered platform to manage finance, operations, sales & hiring all at one place for businesses.** It utilises Agentic AI system: A new approach of multiple specialised agents, which collaborate under the auspices of one central controller (orchestrator) to address business problems.
+**Finvexis AI is the intelligent A.I.powered platform to manage finance, operations, sales & hiring all at one place for businesses.** It utilises Agentic AI system: A new approach of multiple specialised agents, which collaborate under the auspices of one central controller (orchestrator) to address business problems.
 
-Today, most businesses use different tools for invoicing, tax calculation, KPI tracking, lead management, and hiring. Because these tools are separate, it becomes difficult to make fast and informed decisions. FinNexus AI solves this problem by combining everything into one intelligent system where AI agents collaborate to provide insights and automation.
+Today, most businesses use different tools for invoicing, tax calculation, KPI tracking, lead management, and hiring. Because these tools are separate, it becomes difficult to make fast and informed decisions. Finvexis AI solves this problem by combining everything into one intelligent system where AI agents collaborate to provide insights and automation.
 
 The platform is divided into three main areas:
 
@@ -51,4 +51,4 @@ The Master Orchestrator Agent is at the heart of the system. This agent has th
 
 It is achieved by making the use of large language models (LLMs), tool integration with structure, and systems memory to design scalable and intelligent workflows. It is designed to grow and support more business functions in the future.
 
-FinNexus AI shows how Agentic AI can go beyond simple chatbots and become a powerful decision-support system. By combining automation, reasoning, and domain expertise, the platform helps businesses reduce manual work and make better, data-driven decisions.
+Finvexis AI shows how Agentic AI can go beyond simple chatbots and become a powerful decision-support system. By combining automation, reasoning, and domain expertise, the platform helps businesses reduce manual work and make better, data-driven decisions.
