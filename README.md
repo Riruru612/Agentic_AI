@@ -117,8 +117,6 @@ Key files:
 - Invoice, budgeting, auditing, and vendor intelligence workflows.
 - Engine-based structure for parsing, profiling, alerts, and finance narratives.
 
-  <img width="902" height="1020" alt="image" src="https://github.com/user-attachments/assets/f78b6f79-43ba-49f3-bb72-e332f4a977e4" />
-
 
 ### Sales and HR
 - Tools for resume intelligence, job description analysis, lead/sales assistance, and policy support.
