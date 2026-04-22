@@ -113,14 +113,23 @@ Key files:
 - Strategy-oriented processing and orchestration.
 - Agent modules for forecasting, KPI interpretation, and business planning support.
 
+<img width="489" height="732" alt="Business" src="https://github.com/user-attachments/assets/f88890e5-8612-4a52-b4ec-8876b5aebf40" />
+
+
 ### Finance
 - Invoice, budgeting, auditing, and vendor intelligence workflows.
 - Engine-based structure for parsing, profiling, alerts, and finance narratives.
+
+<img width="652" height="737" alt="Finance" src="https://github.com/user-attachments/assets/2f642e2b-b4f1-4b57-bdf9-6f2879412482" />
+
 
 
 ### Sales and HR
 - Tools for resume intelligence, job description analysis, lead/sales assistance, and policy support.
 - Utility modules for document handling and classification.
+
+<img width="813" height="749" alt="Sales" src="https://github.com/user-attachments/assets/6e71fff1-aec4-49ba-a49d-faa84c6750fd" />
+
 
 ## Prerequisites
 
