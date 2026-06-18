@@ -100,6 +100,7 @@ Key files:
 
 ### Backend
 - Python 3.10
+- Langchain
 - FastAPI
 - Uvicorn
 - Modular domain orchestration for:
